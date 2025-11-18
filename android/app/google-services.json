@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396484339425",
+    "project_id": "kunjungan-5e7ad",
+    "storage_bucket": "kunjungan-5e7ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396484339425:android:17ca1802e7f9b7ba6e79a0",
+        "android_client_info": {
+          "package_name": "com.example.kunjungan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2j2uDTJlr1mDGRlZhrGTBzLHynXI-EAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
